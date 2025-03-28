@@ -4,8 +4,8 @@ description: '안녕하세요 해당 블로그는 RTL에 관한 설계와 검증
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://github.com/chemistrykr/WonhoChang" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/img/branding/MVM-logo-full.svg"
-logo-icon: "/assets/img/branding/MVM-symbol.svg"
+logo: "/assets/img/branding/theme.svg"
+logo-icon: "/assets/img/branding/main_semi.svg"
 logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
 
 # Night/Dark mode
@@ -26,10 +26,13 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: Wonho Chang # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author: '안녕하세요, RTL Design/Verification Engineer입니다. Systemverilog 및 UVM 검증에 관련된 지식을 정리하기 위해 블로그를 시작하였습니다. 아직 현업에서 저연차로 부족한 점이 많다는 것을 이해해주시고 포스팅 내용을 확인해 주시면 감사하겠습니다. RTL 관련 내용뿐만 아니라 부족하지만 DRAM 관련 지식 혹은 IP의 domain에 관한 내용도 정리하도록 하겠습니다'
+about-author: | '안녕하세요, RTL Design/Verification Engineer입니다. 
+Systemverilog 및 UVM 검증에 관련된 지식을 정리하기 위해 블로그를 시작하였습니다. 
+아직 현업에서 저연차로 부족한 점이 많다는 것을 이해해주시고 포스팅 내용을 확인해 주시면 감사하겠습니다. 
+RTL 관련 내용뿐만 아니라 부족하지만 Computer Architecture or DRAM Knowledge에 관한 내용도 정리하도록 하겠습니다'
 
 # Contact links
-email: armando.maynez@gmail.com # Add your Email address
+email: chemistrykr@naver.com # Add your Email address
 phone: # Add your Phone number
 website: https://amaynez.github.io # Add your website
 linkedin: amaynez # Add your Linkedin handle
