@@ -260,7 +260,7 @@
       </nav>
       
       
-      <div class="logo"><a href="./"><img class="logo" id="logo" src="./assets/img/branding/theme.svg" alt="RTL & Verification Notes"></a></div>
+      <div class="logo"><a href="./"><img class="logo" id="logo" src="./assets/img/branding/semi_theme.svg" alt="RTL & Verification Notes"></a></div>
       <div class="search-icon-container">
         <span class="search-icon"><a><i class="fa fa-search" aria-hidden="true"></i></a></span>
       </div>
@@ -732,9 +732,9 @@ RTL 관련 내용뿐만 아니라 부족하지만 Computer Architecture or DRAM 
     saveThemeData(themeData);
     html.dataset.theme = nightShift ? 'dark' : 'light';
     if (nightShift) {
-        logo.setAttribute("src", "./assets/img/branding/MVM-logo-full-dark.svg");
+        logo.setAttribute("src", "./assets/img/branding/semi_theme.svg");
     } else {
-        logo.setAttribute("src", "./assets/img/branding/theme.svg");
+        logo.setAttribute("src", "./assets/img/branding/semi_theme.svg");
     }
     setTimeout(function() {
         sw.checked = nightShift ? true : false;
