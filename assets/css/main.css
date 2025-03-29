@@ -1794,9 +1794,8 @@ img + small, img + br + small {
 
 .about-header .author-image-container {
   width: 250px;
-  height: auto;
-  border-radius: 50%;
-  object-fit: cover;
+  height: 250px;
+  overflow: cover;
   margin: 0 auto 30px;
 }
 
