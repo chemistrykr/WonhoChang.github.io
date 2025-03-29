@@ -25,7 +25,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: Wonho Chang # add your name
-author-pic: Myself_Neon_grey.jpg
+author-pic: roma.jpg
 about-author:  |
   안녕하세요, RTL Design/Verification Engineer입니다.<br>
   Systemverilog 및 UVM 검증에 관련된 지식을 정리하기 위해 블로그를 시작하였습니다. 
@@ -38,8 +38,6 @@ phone: # Add your Phone number
 website: https://amaynez.github.io # Add your website
 linkedin: amaynez # Add your Linkedin handle
 github: amaynez # Add your Github handle
-twitter: '@MvmThe' # Add your Twitter handle
-bandcamp: armandomaynez # Add your Bandcamp username
 stackoverflow: stackoverflow # Add your stackoverflow account
 
 # Newsletter

@@ -1793,11 +1793,10 @@ img + small, img + br + small {
 }
 
 .about-header .author-image-container {
-  width: 100px;
-  height: 100px;
-  -webkit-border-radius: 100%;
-          border-radius: 100%;
-  overflow: hidden;
+  width: 250px;
+  height: auto;
+  border-radius: 50%;
+  object-fit: cover;
   margin: 0 auto 30px;
 }
 
